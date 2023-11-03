@@ -5,9 +5,9 @@ Update an existing Task app with the ability to save and persist task data to lo
 
 Submitted by: Sophia John
 
-**Name of your app** is an app that ... [TODO] 
+Task is an app that ... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -30,6 +30,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 https://imgur.com/dyaH6Cb.gif
+
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/dyaH6Cb" data-context="false" ><a href="//imgur.com/a/dyaH6Cb"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
